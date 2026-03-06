@@ -202,7 +202,7 @@ user_skills = st.sidebar.multiselect(
 )
 visa_need = st.sidebar.radio("Current Visa Position", ["Need sponsorship", "Graduate visa", "Not sure"])
 
-st.title("Transparent Job Application System")
+st.title("Job Application System")
 st.caption("Prototype for international graduates navigating UK job applications more transparently and fairly.")
 
 tabs = st.tabs([
